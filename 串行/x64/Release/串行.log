@@ -1,0 +1,18 @@
+﻿  串行.cpp
+c:\users\cloud\source\repos\mpi并行\串行\串行.cpp(105): error C3861: “f3”: 找不到标识符
+c:\users\cloud\source\repos\mpi并行\串行\串行.cpp(118): error C3861: “f3”: 找不到标识符
+c:\users\cloud\source\repos\mpi并行\串行\串行.cpp(380): error C3861: “f3”: 找不到标识符
+c:\users\cloud\source\repos\mpi并行\串行\串行.cpp(402): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\cloud\source\repos\mpi并行\串行\串行.cpp(408): warning C4326: “main”的返回类型应为“int”而非“void”
+c:\users\cloud\source\repos\mpi并行\串行\串行.cpp(409): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  源.cpp
+c:\users\cloud\source\repos\mpi并行\串行\源.cpp(95): error C3861: “rand”: 找不到标识符
+c:\users\cloud\source\repos\mpi并行\串行\源.cpp(95): error C2065: “RAND_MAX”: 未声明的标识符
+c:\users\cloud\source\repos\mpi并行\串行\源.cpp(107): error C3861: “sqrt”: 找不到标识符
+c:\users\cloud\source\repos\mpi并行\串行\源.cpp(107): error C3861: “sin”: 找不到标识符
+c:\users\cloud\source\repos\mpi并行\串行\源.cpp(118): error C3861: “acos”: 找不到标识符
+c:\users\cloud\source\repos\mpi并行\串行\源.cpp(120): error C3861: “cos”: 找不到标识符
+c:\users\cloud\source\repos\mpi并行\串行\源.cpp(132): error C3861: “acos”: 找不到标识符
+c:\users\cloud\source\repos\mpi并行\串行\源.cpp(135): error C3861: “cos”: 找不到标识符
+c:\users\cloud\source\repos\mpi并行\串行\源.cpp(137): error C3861: “sqrt”: 找不到标识符
+c:\users\cloud\source\repos\mpi并行\串行\源.cpp(137): error C3861: “exp”: 找不到标识符

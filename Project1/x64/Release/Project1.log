@@ -1,0 +1,16 @@
+﻿  GA.cpp
+c:\users\cloud\source\repos\mpi并行\project1\ga.cpp(188): warning C4101: “mem”: 未引用的局部变量
+c:\users\cloud\source\repos\mpi并行\project1\ga.cpp(217): warning C4101: “i”: 未引用的局部变量
+c:\users\cloud\source\repos\mpi并行\project1\ga.cpp(322): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\cloud\source\repos\mpi并行\project1\ga.cpp(324): warning C4101: “a”: 未引用的局部变量
+c:\users\cloud\source\repos\mpi并行\project1\ga.cpp(324): warning C4101: “sum”: 未引用的局部变量
+c:\users\cloud\source\repos\mpi并行\project1\ga.cpp(323): warning C4101: “k”: 未引用的局部变量
+c:\users\cloud\source\repos\mpi并行\project1\ga.cpp(323): warning C4101: “j”: 未引用的局部变量
+c:\users\cloud\source\repos\mpi并行\project1\ga.cpp(323): warning C4101: “i”: 未引用的局部变量
+c:\users\cloud\source\repos\mpi并行\project1\ga.cpp(324): warning C4101: “avg”: 未引用的局部变量
+  正在生成代码
+  4 of 16 functions (25.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Project1.vcxproj -> C:\Users\CLOUD\source\repos\mpi并行\x64\Release\传统遗传算法.exe

@@ -1,0 +1,7 @@
+﻿  33.cpp
+c:\users\cloud\source\repos\mpi并行\串行进化\33.cpp(207): warning C4101: “mem”: 未引用的局部变量
+c:\users\cloud\source\repos\mpi并行\串行进化\33.cpp(236): warning C4101: “i”: 未引用的局部变量
+c:\users\cloud\source\repos\mpi并行\串行进化\33.cpp(404): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\cloud\source\repos\mpi并行\串行进化\33.cpp(410): warning C4326: “main”的返回类型应为“int”而非“void”
+c:\users\cloud\source\repos\mpi并行\串行进化\33.cpp(411): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  串行进化.vcxproj -> C:\Users\CLOUD\source\repos\mpi并行\x64\Debug\串行进化.exe

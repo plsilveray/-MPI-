@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Final", "Final\Final.vcxproj", "{5495DB27-58AF-478E-B298-8276EE466357}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "传统遗传算法", "Project1\Project1.vcxproj", "{A806159F-F786-4BD2-8456-C23B459622F4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "串行进化", "串行进化\串行进化.vcxproj", "{430A7222-A9B0-4EFA-9A22-ECD7595D6F11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5495DB27-58AF-478E-B298-8276EE466357}.Debug|ARM.ActiveCfg = Debug|Win32
+		{5495DB27-58AF-478E-B298-8276EE466357}.Debug|x64.ActiveCfg = Debug|x64
+		{5495DB27-58AF-478E-B298-8276EE466357}.Debug|x64.Build.0 = Debug|x64
+		{5495DB27-58AF-478E-B298-8276EE466357}.Debug|x86.ActiveCfg = Debug|Win32
+		{5495DB27-58AF-478E-B298-8276EE466357}.Debug|x86.Build.0 = Debug|Win32
+		{5495DB27-58AF-478E-B298-8276EE466357}.Release|ARM.ActiveCfg = Release|Win32
+		{5495DB27-58AF-478E-B298-8276EE466357}.Release|x64.ActiveCfg = Release|x64
+		{5495DB27-58AF-478E-B298-8276EE466357}.Release|x64.Build.0 = Release|x64
+		{5495DB27-58AF-478E-B298-8276EE466357}.Release|x86.ActiveCfg = Release|Win32
+		{5495DB27-58AF-478E-B298-8276EE466357}.Release|x86.Build.0 = Release|Win32
+		{A806159F-F786-4BD2-8456-C23B459622F4}.Debug|ARM.ActiveCfg = Debug|Win32
+		{A806159F-F786-4BD2-8456-C23B459622F4}.Debug|x64.ActiveCfg = Debug|x64
+		{A806159F-F786-4BD2-8456-C23B459622F4}.Debug|x64.Build.0 = Debug|x64
+		{A806159F-F786-4BD2-8456-C23B459622F4}.Debug|x86.ActiveCfg = Debug|Win32
+		{A806159F-F786-4BD2-8456-C23B459622F4}.Debug|x86.Build.0 = Debug|Win32
+		{A806159F-F786-4BD2-8456-C23B459622F4}.Release|ARM.ActiveCfg = Release|Win32
+		{A806159F-F786-4BD2-8456-C23B459622F4}.Release|x64.ActiveCfg = Release|x64
+		{A806159F-F786-4BD2-8456-C23B459622F4}.Release|x64.Build.0 = Release|x64
+		{A806159F-F786-4BD2-8456-C23B459622F4}.Release|x86.ActiveCfg = Release|Win32
+		{A806159F-F786-4BD2-8456-C23B459622F4}.Release|x86.Build.0 = Release|Win32
+		{430A7222-A9B0-4EFA-9A22-ECD7595D6F11}.Debug|ARM.ActiveCfg = Debug|Win32
+		{430A7222-A9B0-4EFA-9A22-ECD7595D6F11}.Debug|x64.ActiveCfg = Debug|x64
+		{430A7222-A9B0-4EFA-9A22-ECD7595D6F11}.Debug|x64.Build.0 = Debug|x64
+		{430A7222-A9B0-4EFA-9A22-ECD7595D6F11}.Debug|x86.ActiveCfg = Debug|Win32
+		{430A7222-A9B0-4EFA-9A22-ECD7595D6F11}.Debug|x86.Build.0 = Debug|Win32
+		{430A7222-A9B0-4EFA-9A22-ECD7595D6F11}.Release|ARM.ActiveCfg = Release|Win32
+		{430A7222-A9B0-4EFA-9A22-ECD7595D6F11}.Release|x64.ActiveCfg = Release|x64
+		{430A7222-A9B0-4EFA-9A22-ECD7595D6F11}.Release|x64.Build.0 = Release|x64
+		{430A7222-A9B0-4EFA-9A22-ECD7595D6F11}.Release|x86.ActiveCfg = Release|Win32
+		{430A7222-A9B0-4EFA-9A22-ECD7595D6F11}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C5588C9-9C79-4790-B7D0-FA73EAB23F9E}
+	EndGlobalSection
+EndGlobal
